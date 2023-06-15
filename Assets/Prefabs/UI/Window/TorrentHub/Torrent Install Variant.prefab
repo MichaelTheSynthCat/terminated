@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &4930336552596974948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1051627050017312579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f2de86884381b4f88c58ff29e6ae86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  torrent_id: 
+  pcs_cost: 0
+  bonus: 
+  value: 0
+  text_object: {fileID: 1051627048911811957}
+--- !u!1001 &3255103806812771060
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2572772066345117568, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772066345117571, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_text
+      value: text here
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609640, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609640, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Color.r
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609640, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Color.g
+      value: 0.18431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609640, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.17254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.42745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 0.003921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Colors.m_DisabledColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Colors.m_DisabledColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Colors.m_DisabledColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Colors.m_DisabledColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 4930336552596974948}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Install
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609641, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: TorrentButton, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 70.323845
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 396.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -307.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 285.53638
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34.136612
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609654, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572772067449609655, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+      propertyPath: m_Name
+      value: Torrent Install Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+--- !u!1 &1051627050017312579 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2572772067449609655, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+  m_PrefabInstance: {fileID: 3255103806812771060}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1051627048911811957 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2572772066345117569, guid: 203649c68775ca941bcd4497a0df99b7, type: 3}
+  m_PrefabInstance: {fileID: 3255103806812771060}
+  m_PrefabAsset: {fileID: 0}

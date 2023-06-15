@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 1c74880c9866585488a12a172c78ac81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1223124974114696009
+    second: Creating VPN_0
+  - first:
+      213: -1904218578876163927
+    second: Creating VPN_1
+  - first:
+      213: 8162241459593147009
+    second: Creating VPN_2
+  - first:
+      213: -6742160150284649026
+    second: Creating VPN_3
+  - first:
+      213: -3111524806302299225
+    second: Creating VPN_4
+  - first:
+      213: -274402528587223318
+    second: Creating VPN_5
+  - first:
+      213: -4042332347414489338
+    second: Creating VPN_6
+  - first:
+      213: -7690133375018506496
+    second: Creating VPN_7
+  - first:
+      213: 1328414570514881897
+    second: Creating VPN_8
+  - first:
+      213: 7252399219630539027
+    second: Creating VPN_9
+  - first:
+      213: -2029684564421780040
+    second: Creating VPN_10
+  - first:
+      213: 9057136079692837692
+    second: Creating VPN_11
+  - first:
+      213: -7810167576883158196
+    second: Creating VPN_12
+  - first:
+      213: 7043156055252015698
+    second: Creating VPN_13
+  - first:
+      213: -6961357375494411009
+    second: Creating VPN_14
+  - first:
+      213: -3016159746269954147
+    second: Creating VPN_15
+  - first:
+      213: 1081465017803119985
+    second: Creating VPN_16
+  - first:
+      213: -8732226981659700206
+    second: Creating VPN_17
+  - first:
+      213: 5443021589836800569
+    second: Creating VPN_18
+  - first:
+      213: -8219596440494275410
+    second: Creating VPN_19
+  - first:
+      213: -1651304846966769765
+    second: Creating VPN_20
+  - first:
+      213: -6959840596933301016
+    second: Creating VPN_21
+  - first:
+      213: 2440906002826873854
+    second: Creating VPN_22
+  - first:
+      213: -5195163772715366293
+    second: Creating VPN_23
+  - first:
+      213: -610443665337005488
+    second: Creating VPN_24
+  - first:
+      213: 4251756364023305121
+    second: Creating VPN_25
+  - first:
+      213: 2467862504981685492
+    second: Creating VPN_26
+  - first:
+      213: -1850770195290636478
+    second: Creating VPN_27
+  - first:
+      213: -7431715890776681320
+    second: Creating VPN_28
+  - first:
+      213: 2719555772593334419
+    second: Creating VPN_29
+  - first:
+      213: -8929742912509475359
+    second: Creating VPN_30
+  - first:
+      213: 7607289575837105450
+    second: Creating VPN_31
+  - first:
+      213: -7641800229627491221
+    second: Creating VPN_32
+  - first:
+      213: 5462755251759104081
+    second: Creating VPN_33
+  - first:
+      213: -3275143820357360666
+    second: Creating VPN_34
+  - first:
+      213: -2685971458225686306
+    second: Creating VPN_35
+  - first:
+      213: -7226298005053692391
+    second: Creating VPN_36
+  - first:
+      213: 8592011100396104529
+    second: Creating VPN_37
+  - first:
+      213: 4040747049001087221
+    second: Creating VPN_38
+  - first:
+      213: 4537454976371478492
+    second: Creating VPN_39
+  - first:
+      213: -3607818458929377056
+    second: Creating VPN_40
+  - first:
+      213: -3359318897632192629
+    second: Creating VPN_41
+  - first:
+      213: 2820183580928284027
+    second: Creating VPN_42
+  - first:
+      213: -8187110671807389682
+    second: Creating VPN_43
+  - first:
+      213: 5952520297077785008
+    second: Creating VPN_44
+  - first:
+      213: -250000166807897881
+    second: Creating VPN_45
+  - first:
+      213: 5560043272575624265
+    second: Creating VPN_46
+  - first:
+      213: 4521757703679365174
+    second: Creating VPN_47
+  - first:
+      213: -464166144781597492
+    second: Creating VPN_48
+  - first:
+      213: 8988275161094611132
+    second: Creating VPN_49
+  - first:
+      213: 9116460013416930473
+    second: Creating VPN_50
+  - first:
+      213: -8418344822143397968
+    second: Creating VPN_51
+  - first:
+      213: -1755125670974804616
+    second: Creating VPN_52
+  - first:
+      213: 8222105156682319210
+    second: Creating VPN_53
+  - first:
+      213: 7041142374143102308
+    second: Creating VPN_54
+  - first:
+      213: 9000619297710272212
+    second: Creating VPN_55
+  - first:
+      213: -1934260031488110583
+    second: Creating VPN_56
+  - first:
+      213: -8695588246077664326
+    second: Creating VPN_57
+  - first:
+      213: -2472565434866283794
+    second: Creating VPN_58
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creating VPN_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be30efea969f010800000000000000
+      internalID: 1223124974114696009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8136f9a4bd295e0800000000000000
+      internalID: -1904218578876163927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f302bc5b164170800000000000000
+      internalID: 8162241459593147009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3d7790190f62a0800000000000000
+      internalID: -6742160150284649026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab098a9ca4a1d4d0800000000000000
+      internalID: -3111524806302299225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee616aa50213cf0800000000000000
+      internalID: -274402528587223318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d940b520c6e7c0800000000000000
+      internalID: -4042332347414489338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creating VPN_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00765a28078274590800000000000000
+      internalID: -7690133375018506496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Creating VPN_0: 1223124974114696009
+      Creating VPN_1: -1904218578876163927
+      Creating VPN_2: 8162241459593147009
+      Creating VPN_3: -6742160150284649026
+      Creating VPN_4: -3111524806302299225
+      Creating VPN_5: -274402528587223318
+      Creating VPN_6: -4042332347414489338
+      Creating VPN_7: -7690133375018506496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

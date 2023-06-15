@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2472614825735819170
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2472614825735819172}
+  - component: {fileID: 2472614825735819173}
+  - component: {fileID: 7735872442109320171}
+  - component: {fileID: 2410054060689511698}
+  - component: {fileID: 802358964020796135}
+  - component: {fileID: 7969025979286360272}
+  m_Layer: 0
+  m_Name: LEVEL SCRIPT OBJECT
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2472614825735819172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2472614825735819170}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 81.88819, y: 38.383743, z: 781.5155}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2472614825735819173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2472614825735819170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7aa7970dc61e294f9a115f8560316b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level_commands: []
+--- !u!114 &7735872442109320171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2472614825735819170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01e55a9dead2cf04fb2c753f8e807777, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  operators:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &2410054060689511698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2472614825735819170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1efa2b3a49a60db41b62fe33bd93338f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  INPUT_count: 2
+  INPUT_player_names:
+  - Public
+  - trojan
+  - Generic Enemy
+  INPUT_player_game_status: 000000000100000001000000
+  INPUT_Team1: 
+  INPUT_Team2: 
+  INPUT_unknow_color: {r: 0.9553981, g: 1, b: 0, a: 1}
+  INPUT_colors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.015686274, g: 0.2504405, b: 1, a: 1}
+  - {r: 0.19136071, g: 1, b: 0, a: 1}
+  INPUT_terminated_color: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
+--- !u!114 &802358964020796135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2472614825735819170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1287611d0860ae40b9198208f0ce8a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Selectbox: {fileID: 0}
+  Selectbox_ghost: {fileID: 0}
+--- !u!114 &7969025979286360272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2472614825735819170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ec296491a42534288d498361e7c8a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  task_rectangle: {fileID: 3837297763128617624, guid: d6246713f8033e9438d147e2d33d0b11, type: 3}
+  scanning: {fileID: 7069383174655400866, guid: 5ccaaf4742e674f4bb304c21a15e5107, type: 3}
+  antivirus_scan: {fileID: 8598634370464595635, guid: 3ad3f5ec4b7bb934fa87209f886d55ec, type: 3}
+  cyberattacking: {fileID: 1178201594690589916, guid: 144093a4086476849a65a311d7aa6e2a, type: 3}
+  trojanprocess: {fileID: 1375087258615982763, guid: 23c74476df8ff884cae3a95653196cda, type: 3}
+  breaking_firewall: {fileID: 5457438675857736790, guid: 927871c3fd2ee704ead6e7e4627dacd3, type: 3}
+  spyworm_install: {fileID: 5970613871060259619, guid: 542f81527f83f284cbeaa45cdc0ee3f3, type: 3}
+  deleting_log: {fileID: 7093446263649803910, guid: 48427ba50dbe67d4f9293bd10c5212ea, type: 3}
+  tcpcatching: {fileID: 7659180093454929069, guid: 15ed225182e3bf14b8371f7b672f6847, type: 3}
+  counterattacking: {fileID: 1974951691392149150, guid: 2bc3ef2e9eba3394b830d0cb519ed2d7, type: 3}
+  creating_stasis: {fileID: 2202756371073195029, guid: 45522314e1bdaa849a0f1db156c80a9a, type: 3}
+  repairing: {fileID: 1633682256689001249, guid: 31c446f751187ee42897af03dfa2e58a, type: 3}
+  creatingvpn: {fileID: 435428990640823615, guid: 0ee41621cb35efd46bcc5e75addf90de, type: 3}
+  creatingslave: {fileID: 2625834878724470455, guid: 767945759f4511c428e43b050d197206, type: 3}
+  installing_software: {fileID: 3060493698967003594, guid: 34093dd63441bcf48b26977848d66360, type: 3}
+  updating_bios: {fileID: 1014195436110738275, guid: b7652933643cbea44b465a7c58ceb1e4, type: 3}
+  downloading_data: {fileID: 5517920620517730826, guid: 10ef88aa9d7095748a23030bc7771bd7, type: 3}
+  terminating: {fileID: 3106286207354536829, guid: 15a4c591922663e45b03d68f6504102e, type: 3}
+  vpn_connection: {fileID: 7375708756624219758, guid: 78199d29d250003438b0695787beeead, type: 3}
+  slave_process: {fileID: 8222522899501372859, guid: c9ff5ae4cf8a58c47a01e8cb01bde0a0, type: 3}
+  generating_pcs: {fileID: 4958172897512027441, guid: 5b89dbe6c7211584e9a62cf72fd8daa1, type: 3}
+  mining_catcoin: {fileID: 8144266278339860259, guid: bf629aa5343252840811ed40c23c2d98, type: 3}
+  botnet_source: {fileID: 5892654234512755861, guid: dda139397118c284c9059c1feb4720dc, type: 3}
+  botnet_attacking: {fileID: 4654171904120246715, guid: 169be883c9cfa94459a34a576b3ac98b, type: 3}
+  antivirus_engine: {fileID: 3492989433477944240, guid: b090b99730e7d6e4eb3dbda94c96274e, type: 3}
+  autorepair: {fileID: 1535198467696616143, guid: 272569d9c2452b64daf108f1bf1513a4, type: 3}
+  defense_upgrades:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0, g: 1, b: 0.8745099, a: 1}
+  - {r: 0.015686275, g: 0.54509807, b: 0.9803922, a: 1}
+  - {r: 0.08018869, g: 0.24910899, b: 1, a: 1}
+  security_upgrades:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.5133825, g: 1, b: 0.2028302, a: 1}
+  - {r: 0, g: 0.9811321, b: 0.04528296, a: 1}
+  - {r: 0, g: 0.5754717, b: 0.026560197, a: 1}
+  power_upgrades:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.9811321, g: 0.33602765, b: 0.013883919, a: 1}
+  - {r: 1, g: 0.12086477, b: 0.023584902, a: 1}
+  - {r: 0.8396226, g: 0, b: 0, a: 1}
+  firewall_upgrades:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0.3066038, b: 0.6060816, a: 1}
+  - {r: 1, g: 0, b: 0.4189906, a: 1}
+  - {r: 1, g: 0.0141509175, b: 0.16081883, a: 1}
